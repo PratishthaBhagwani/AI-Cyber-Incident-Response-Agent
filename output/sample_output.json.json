@@ -1,0 +1,7 @@
+{
+    "incident_id": "BARC-2026-001",
+    "user": "JDC0030",
+    "risk_score": 85,
+    "type": "Data Exfiltration",
+    "evidence": "Sent to Frances_A_Wiggins@bellsouth.net;Fatima_U_Mcclure@yahoo.com at 2010-01-02 08:22:15"
+}
